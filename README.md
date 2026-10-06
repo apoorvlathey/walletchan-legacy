@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **WalletChan has moved to [github.com/walletchan/walletchan](https://github.com/walletchan/walletchan).**
+> This repository is archived and no longer updated. Please open issues, pull requests, and stars on the new repository.
+
 # WalletChan
 
 <!-- Staged for the v4 release. Do not publish before the final v4 package and
